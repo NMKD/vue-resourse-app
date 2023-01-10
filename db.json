@@ -1,0 +1,29 @@
+{
+  "cars": [
+    {
+      "name": "Ford",
+      "year": 2014,
+      "id": 1
+    },
+    {
+      "name": "Mazda",
+      "year": 2016,
+      "id": 2
+    },
+    {
+      "name": "Lada",
+      "year": 2015,
+      "id": 3
+    },
+    {
+      "name": "Lada Vesta",
+      "year": 2014,
+      "id": 4
+    },
+    {
+      "name": "Mers",
+      "year": 2014,
+      "id": 5
+    }
+  ]
+}
